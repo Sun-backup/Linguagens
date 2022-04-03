@@ -105,5 +105,10 @@ namespace BBBank_v2
             ContaAtual = null;
             this.Login();
         }
+
+        private void lbxExtrato_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

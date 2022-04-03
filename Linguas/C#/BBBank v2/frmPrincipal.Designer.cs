@@ -103,6 +103,7 @@
             this.lbxExtrato.Name = "lbxExtrato";
             this.lbxExtrato.Size = new System.Drawing.Size(278, 121);
             this.lbxExtrato.TabIndex = 6;
+            this.lbxExtrato.SelectedIndexChanged += new System.EventHandler(this.lbxExtrato_SelectedIndexChanged);
             // 
             // frmPrincipal
             // 
